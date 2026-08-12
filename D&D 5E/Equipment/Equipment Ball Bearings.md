@@ -1,0 +1,12 @@
+---
+name: 'Ball Bearings'
+type: 'equipment'
+edition: '5.2'
+aliases:
+  - 'Ball Bearings'
+---
+# Ball Bearings
+
+**Cost:** 1 GP
+
+As a [[Term Utilize]] action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-footsquare area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[Term Prone]] condition. It takes 10 minutes to recover the Ball Bearings.

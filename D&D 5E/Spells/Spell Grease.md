@@ -1,0 +1,24 @@
+---
+name: 'Grease'
+type: 'spell'
+edition: '5.2'
+level: '1'
+school: 'Conjuration'
+aliases:
+  - 'Grease'
+classes:
+  - 'Sorcerer'
+  - 'Wizard'
+---
+# Grease
+
+_Level 1 Conjuration (Sorcerer, Wizard)_
+
+- **Casting Time:** [[Term Action]]
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of pork rind or butter)
+- **Duration:** 1 minute
+
+Nonflammable grease covers the ground in a 10 foot square centered on a point within range and turns it into [[Term Difficult Terrain]] for the duration.
+
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [[Term Prone]] condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
