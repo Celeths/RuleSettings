@@ -18,7 +18,7 @@ That's what RuleSettings is: **the source of truth.** It's a database of rules, 
 
 ## What's inside?
 
-- Game rulesets for a variety of board games, card games, and tabletop RPGs
+- Game rulesets
 - Each ruleset is formatted in a consistent, machine-readable structure (JSON)
 - Every rule is labeled and organized so it's easy to find specific sections like setup, turn order, scoring, or special abilities
 - **Only rulesets that have been released to the public domain or under a Creative Commons Attribution (CC-BY) license.** No illegal or licensed content is included.
