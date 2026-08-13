@@ -1,0 +1,13 @@
+---
+name: 'Potion of Invisibility'
+type: 'magic-item'
+edition: '5.2'
+rarity: 'Rare'
+aliases:
+  - 'Potion of Invisibility'
+---
+# Potion of Invisibility
+
+_Potion, Rare_
+
+This potion's container looks empty but feels as though it holds liquid. When you drink the potion, you have the [[Term Invisible]] condition for 1 hour. The effect ends early if you make an attack roll, deal damage, or cast a spell.

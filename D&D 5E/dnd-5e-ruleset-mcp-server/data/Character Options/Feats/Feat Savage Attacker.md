@@ -1,0 +1,12 @@
+---
+name: 'Savage Attacker'
+type: 'feat'
+edition: '5.2'
+aliases:
+  - 'Savage Attacker'
+---
+# Savage Attacker
+
+_Origin Feat_
+
+You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.

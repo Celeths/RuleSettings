@@ -1,0 +1,10 @@
+---
+name: 'Skill'
+type: 'term'
+edition: '5.2'
+aliases:
+  - 'Skill'
+---
+# Skill
+
+A skill is an area of specialization associated with an ability check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill. _See also_ "Playing the Game" ("[[Term Proficiency]]").
