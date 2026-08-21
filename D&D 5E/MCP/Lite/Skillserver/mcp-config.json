@@ -1,0 +1,6 @@
+{
+    "Skillserver": {
+      "command": "python3",
+      "args": ["skillserver.py"]
+    }
+}
